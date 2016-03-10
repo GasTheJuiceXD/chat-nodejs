@@ -1,11 +1,19 @@
 {
   "name": "chat-nodejs",
-  "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
+  "version": "0.1.0",
+  "description": "Little chat using nodejs and socket.io",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
+  "keywords": [
+    "chat",
+    "nodejs",
+    ];
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nowal/chat-nodejs"
+  }
   "author": "Nowal <nowalplayer@gmail.com>",
-  "license": "ISC"
+  "license": "MIT"
 }
