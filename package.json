@@ -9,11 +9,11 @@
   "keywords": [
     "chat",
     "nodejs",
-    ];
+    ],
   "repository": {
     "type": "git",
     "url": "https://github.com/nowal/chat-nodejs"
-  }
+  },
   "author": "Nowal <nowalplayer@gmail.com>",
   "license": "MIT"
 }
